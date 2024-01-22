@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Java Car Management System (cSMS)** is a project showcasing advanced Object-Oriented Programming (OOP) concepts, primarily focusing on inheritance and polymorphism. The project efficiently manages information related to a car showroom, including details about the showroom itself, employees, and cars.
+The **Java Car Management System (CSMS)** is a project showcasing advanced Object-Oriented Programming (OOP) concepts, primarily focusing on inheritance and polymorphism. The project efficiently manages information related to a car showroom, including details about the showroom itself, employees, and cars.
 
 ## Key Features
 
